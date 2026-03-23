@@ -43,8 +43,8 @@ public enum PHPVersion {
 	PHP8_1("php8.1"), //$NON-NLS-1$
 	PHP8_2("php8.2"), // $NON-NLS-1$
 	PHP8_3("php8.3"), // $NON-NLS-2$
-	PHP8_4("php8.4", true), // $NON-NLS-2$
-	PHP8_5("php8.5", true); // $NON-NLS-2$
+	PHP8_4("php8.4"), // $NON-NLS-2$
+	PHP8_5("php8.5"); // $NON-NLS-2$
 
 	private String alias;
 	private boolean isExperimentalSupport;
@@ -96,7 +96,7 @@ public enum PHPVersion {
 	 * @return
 	 */
 	public static PHPVersion getLatestVersion() {
-		return PHPVersion.PHP8_3;
+		return PHPVersion.PHP8_5;
 	}
 
 }
