@@ -35,7 +35,6 @@
 <project reference="1.0,https://github.com/eclipse/pdt.git,master,plugins/org.eclipse.php.profile.core"/>
 <project reference="1.0,https://github.com/eclipse/pdt.git,master,plugins/org.eclipse.php.profile.ui"/>
 <project reference="1.0,https://github.com/eclipse/pdt.git,master,features/org.eclipse.php.profiler-feature"/>
-<project reference="1.0,https://github.com/eclipse/pdt.git,master,plugins/org.eclipse.php.rdt.sync.ui"/>
 <project reference="1.0,https://github.com/eclipse/pdt.git,master,plugins/org.eclipse.php.refactoring.core"/>
 <project reference="1.0,https://github.com/eclipse/pdt.git,master,tests/org.eclipse.php.refactoring.core.tests"/>
 <project reference="1.0,https://github.com/eclipse/pdt.git,master,plugins/org.eclipse.php.refactoring.ui"/>
@@ -79,7 +78,6 @@
 <item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/org.eclipse.php.builtin.executables-repository" type="4"/>
 <item elementID="=org.eclipse.php.debug.daemon" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 <item elementID="=org.eclipse.php.builtin.server.ui" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
-<item elementID="=org.eclipse.php.rdt.sync.ui" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 <item elementID="=org.eclipse.php.examples.xss" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 <item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/org.eclipse.php.test-feature" type="4"/>
 <item elementID="=org.eclipse.php.mylyn.ui" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>

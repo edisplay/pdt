@@ -15,9 +15,6 @@
    <feature url="features/org.eclipse.php.profiler_8.5.0.qualifier.jar" id="org.eclipse.php.profiler" version="8.5.0.qualifier">
       <category name="org.eclipse.php.category"/>
    </feature>
-   <feature url="features/org.eclipse.php.rdt.sync_8.5.0.qualifier.jar" id="org.eclipse.php.rdt.sync" version="8.5.0.qualifier">
-      <category name="org.eclipse.php.category"/>
-   </feature>
    <feature url="features/org.eclipse.php.test_8.5.0.qualifier.jar" id="org.eclipse.php.test" version="8.5.0.qualifier">
       <category name="org.eclipse.php.sdk.category"/>
    </feature>
